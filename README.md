@@ -20,3 +20,5 @@ This method helps researchers:
 * Infer **transcription factor activity**.
 * Understand **gene regulation** during cellular processes.
 
+<img width="1597" height="271" alt="image" src="https://github.com/user-attachments/assets/7ebc4e05-16f0-4158-b4cb-acb9f0d7ca1f" />
+Figure 1. Schematic representation of the single-cell ATAC-seq (scATAC-seq) workflow. From https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf
