@@ -32,3 +32,4 @@ Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and seq
 ---
 ## Links to relevant resources
 - https://emea.illumina.com/science/sequencing-method-explorer/kits-and-arrays/bubble-seq.html
+- https://pubmed.ncbi.nlm.nih.gov/23861383/
