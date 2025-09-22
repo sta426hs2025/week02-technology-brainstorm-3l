@@ -32,6 +32,8 @@ Figure 1. Schematic representation of the bubble-seq workflow. From https://www.
 - **Integration:** overlap with G4 motifs, CpG islands, promoters, DNase/ATAC, ChIP-seq (ORC/MCM); **permutation tests** for enrichment.
 - **QC:** FRiP-like metrics, IDR for replicate agreement, cross-correlation for peak quality.
 
+## Link between technology, application and statistics [2]
+
 | Technology | Application | Statistics |
 | --- | --- | --- |
 | Bubble-Seq | Comprehensive map of DNA replication origins | |
