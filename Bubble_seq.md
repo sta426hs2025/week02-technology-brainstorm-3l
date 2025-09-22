@@ -14,7 +14,7 @@ Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and seq
 - Isolates replicating DNA regions (“bubbles”) → fragments → NGS.
 - Peaks = candidate replication origins; coverage/timing = activity & efficiency.
 
-<img width="1607" height="136" alt="image" src="https://github.com/user-attachments/assets/b641b6e9-0f6d-40c6-86ee-6956056253b1" />
+<img width="1587" height="141" alt="image" src="https://github.com/user-attachments/assets/6491bc25-e518-4847-9338-e74d23cda0fb" />
 Figure 1. Schematic representation of the bubble-seq workflow. From https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf
 
 ## Applications [2,3]
