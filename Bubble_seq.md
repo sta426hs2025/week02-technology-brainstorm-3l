@@ -1,3 +1,10 @@
+## Group members (GitHub usernames)
+- @esonar
+- @seanxie7
+- @TrucTBui
+- @GonCas12
+
+
 # Bubble-seq
 
 Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and sequences to map genome-wide replication origin (ORI) locations and activity.
@@ -24,8 +31,3 @@ Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and seq
 
 ---
 
-## Group members (GitHub usernames)
-- @your-username-here
-- @teammate-1
-- @teammate-2
-- @teammate-3
