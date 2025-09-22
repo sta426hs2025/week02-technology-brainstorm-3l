@@ -1,3 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aKWLU3-A)
-//People in the group: esonar, seanxie7, TrucTBui, GonCas12
-//Topic: Single-cell ATAC-seq
+
+People in the group: esonar, seanxie7, TrucTBui, GonCas12
+
+Topic: Single-cell ATAC-seq
