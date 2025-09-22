@@ -46,4 +46,3 @@ Figure 1. Schematic representation of the bubble-seq workflow. From https://www.
 - [3]https://doi.org/10.1101/gr.155218.113
 - [4]https://doi.org/10.1038/nrg2830
 
-Links were gathered by ChatGPT.
