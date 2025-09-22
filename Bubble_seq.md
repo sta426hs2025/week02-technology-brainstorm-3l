@@ -29,6 +29,9 @@ Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and seq
 - **Integration:** overlap with G4 motifs, CpG islands, promoters, DNase/ATAC, ChIP-seq (ORC/MCM); **permutation tests** for enrichment.
 - **QC:** FRiP-like metrics, IDR for replicate agreement, cross-correlation for peak quality.
 
+<img width="1607" height="136" alt="image" src="https://github.com/user-attachments/assets/b641b6e9-0f6d-40c6-86ee-6956056253b1" />
+Figure 1. Schematic representation of the bubble-seq workflow. From https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf
+
 ---
 ## Links to relevant resources
 - https://emea.illumina.com/science/sequencing-method-explorer/kits-and-arrays/bubble-seq.html
