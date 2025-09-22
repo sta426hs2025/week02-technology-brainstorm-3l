@@ -17,14 +17,14 @@ Bubble-seq captures DNA replication *bubbles* in agarose, enriches them, and seq
 <img width="1607" height="136" alt="image" src="https://github.com/user-attachments/assets/b641b6e9-0f6d-40c6-86ee-6956056253b1" />
 Figure 1. Schematic representation of the bubble-seq workflow. From https://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf
 
-## Applications [2,3,4]
+## Applications [2,3]
 - Genome-wide **origin mapping** (human & model organisms).
 - **Replication timing** and **origin efficiency** profiling.
 - Compare **normal vs cancer** or **treated vs control** for replication stress.
 - Link **genome instability** hotspots to ORIs and fragile sites.
 - Validate/benchmark **in silico** ORI predictors.
 
-## How to analyze (stats/ML toolbox) [2,3,4]
+## How to analyze (stats/ML toolbox) [2,3]
 - **Signal calling:** peak callers (MACS-style), local-enrichment over background, GC/mappability normalization.
 - **Multiple testing:** q-values / **FDR** control (Benjamini–Hochberg).
 - **Comparisons:** Wald tests / DESeq2-like GLMs for count data; non-parametric (Wilcoxon) if sketchy distributions.
@@ -43,6 +43,5 @@ Figure 1. Schematic representation of the bubble-seq workflow. From https://www.
 ## Links to relevant resources
 - [1]https://emea.illumina.com/science/sequencing-method-explorer/kits-and-arrays/bubble-seq.html
 - [2]https://pubmed.ncbi.nlm.nih.gov/23861383/
-- [3]https://doi.org/10.1101/gr.155218.113
-- [4]https://doi.org/10.1038/nrg2830
+- [3]https://doi.org/10.1038/nrg2830
 
