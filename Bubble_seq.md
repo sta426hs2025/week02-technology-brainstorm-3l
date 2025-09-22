@@ -37,7 +37,7 @@ Figure 1. Schematic representation of the bubble-seq workflow. From https://www.
 
 | Technology | Application | Statistics |
 | --- | --- | --- |
-| Bubble-Seq | Comprehensive map of DNA replication origins | Peak calling, Normalization, Multiple testing corrrection, Generalized Linear Models, Hidden Markov Models (HMMs), Bayesian changepoint analysis, Circular Binary Segmentation (CBS) |
+| Bubble-Seq | Comprehensive map of DNA replication origins | Negative Binomial Distribution, False Discovery Rate (FDR) Control, Smoothing / LOESS |
 
 ---
 ## Links to relevant resources
